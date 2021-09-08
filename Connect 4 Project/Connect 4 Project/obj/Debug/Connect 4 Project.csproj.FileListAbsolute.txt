@@ -1,0 +1,16 @@
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\bin\Debug\Connect 4 Project.exe.config
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\bin\Debug\Connect 4 Project.exe
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\bin\Debug\Connect 4 Project.pdb
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\MainWindow.g.cs
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\App.g.cs
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project_MarkupCompile.cache
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project_MarkupCompile.lref
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\MainWindow.baml
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.g.resources
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect_4_Project.Properties.Resources.resources
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.exe
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\Connect 4 Project.pdb
+C:\Users\Frank\source\repos\Connect 4 Project\Connect 4 Project\obj\Debug\App.baml
